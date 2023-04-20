@@ -10,7 +10,7 @@ def element_exists(xpath):
     return True
 
 email = 'jtabalon@sdsu.edu'
-password = 'Maple2019!'
+password = ''
 classnum = '20023'
 #20123, 20122
 #waitlist: 20052, 38114, 20016
