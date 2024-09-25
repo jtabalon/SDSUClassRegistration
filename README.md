@@ -1,4 +1,5 @@
 **Update (25 September 2024)**
+
 Effective in the last few years, the class registration format has been changed effectively sunsetting this project. 
 
 # SDSU Class Registration - Automated
